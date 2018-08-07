@@ -5,6 +5,7 @@ def initialize(brand)
 end
 
 def brand
+  attr_accessor :brand
 end
 
 
