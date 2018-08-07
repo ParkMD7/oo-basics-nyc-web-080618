@@ -8,7 +8,9 @@ def brand
   @brand
 end
 
-
+def color
+  attr_accessor :color
+end
 
 
 
